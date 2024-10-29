@@ -12,25 +12,35 @@ info (features) every waking hour during the fast and
 
 ## Features
 
-Hunger Level: Self-rated hunger on a scale from 1 (not hungry) to 10 (extremely hungry)
+### Hunger Level 
+Self-rated hunger on a scale from 1 (not hungry) to 10 (extremely hungry)
 
-Time of Day: Morning, Afternoon, or Evening
+### Time of Day
+Morning, Afternoon, or Evening
 
-Mood: Self-rated mood on a scale from 1 (low/stressed) to 10 (great/happy)
+### Mood
+Self-rated mood on a scale from 1 (low/stressed) to 10 (great/happy)
 
-Hours Fasted: The number of hours since the last meal
+### Hours Fasted
+The number of hours since the last meal
 
-Fasting Length: Duration of the fasting period (3-day, 5-day, or 7-day fast)
+### Fasting Length
+Duration of the fasting period (3-day, 5-day, or 7-day fast)
 
-Tempting Food Availability: Scale of 1 to 10 indicating the presence of tempting foods nearby
+### Tempting Food Availability
+Scale of 1 to 10 indicating the presence of tempting foods nearby
 
-Social Context: Whether the person is alone, with friends, or with family
+### Social Context
+Whether the person is alone, with friends, or with family
 
-Craving Intensity: Self-rated craving intensity on a scale from 1 (mild) to 10 (intense)
+### Craving Intensity
+Self-rated craving intensity on a scale from 1 (mild) to 10 (intense)
 
-Craving Type: Type of craving: Salty, Sweet, or Savory
+### Craving Type
+Type of craving: Salty, Sweet, or Savory
 
-Break Fast: Whether the fast was broken (Yes/No)
+### Break Fast
+Whether the fast was broken (Yes/No)
 
 ## Analysis and Modeling
 
@@ -38,7 +48,7 @@ I used Jupiter Notebook to analyze the data and present graphs and code (octave)
 
 ## Findings
 
-While working on this project a few findings that I am looking for:
+### While working on this project a few findings that I am looking for:
 
 How much does the feature of craving influence your ability to continue the fast for the desired time?
 
